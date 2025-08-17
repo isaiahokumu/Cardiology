@@ -1,5 +1,5 @@
-# Cardiology
-**Heart Disease Analytics Tool**  
+# Cardiology - Heart Disease Analytics Tool
+
 A Python + SQL + Visualization capstone project supervised by ~ Melody Bonareri  
 
 ---
