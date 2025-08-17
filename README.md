@@ -113,7 +113,7 @@ ORDER BY avg_cholesterol DESC;
 
 ---
 
-## 📊 Data Pipeline
+## Data Pipeline
 - **Data Source:** UCI / Kaggle Heart Disease Dataset  
 - **Ingestion:** CSV → Python (Pandas)  
 - **Cleaning:** Handle missing values, encode categorical variables  
@@ -124,7 +124,7 @@ ORDER BY avg_cholesterol DESC;
 
 ---
 
-## 🗂 Data Dictionary (Sample)
+## Data Dictionary (Sample)
 - `age`: Patient age in years  
 - `sex`: Male/Female  
 - `chest_pain`: Type of chest pain (typical, atypical, non-anginal, asymptomatic)  
@@ -179,7 +179,7 @@ streamlit run app.py
 ```
 ---
 
-## 📚 References
+## References
 
 * World Health Organization – Heart Disease (2023)
 * American Heart Association (2022)
