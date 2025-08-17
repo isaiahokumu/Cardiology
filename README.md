@@ -137,16 +137,16 @@ ORDER BY avg_cholesterol DESC;
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - **Frontend:** Streamlit, Power BI  
 - **Backend:** Python (Pandas, NumPy)  
-- **Database:** MySQL / PostgreSQL  
+- **Database:** MySQL 
 - **Visualization:** Matplotlib, Seaborn, Plotly  
 - **ETL Pipeline:** Python + SQL  
 
 ---
 
-## ✅ Success Criteria
+## Success Criteria
 The project will be considered successful if it:  
 - Handles >1,000 patient records  
 - Provides interactive visualizations with key insights  
@@ -155,7 +155,7 @@ The project will be considered successful if it:
 
 ---
 
-## 🌟 Stretch Goals
+## Stretch Goals
 - Add **machine learning models** for prediction  
 - Integrate **real-time hospital datasets**  
 - Deploy cloud dashboard (**Streamlit Cloud / Heroku / Power BI Service**)  
@@ -163,7 +163,7 @@ The project will be considered successful if it:
 
 ---
 
-## 📦 Installation
+## Installation
 ```bash
 # Clone the repository
 git clone https://github.com/isaiahokumu/Cardiology.git
@@ -176,3 +176,21 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
+```
+---
+
+## 📚 References
+
+* World Health Organization – Heart Disease (2023)
+* American Heart Association (2022)
+* Mayo Clinic – Angina (2021)
+* CDC Hypertension Report (2023)
+* NIH Cholesterol & Heart Study (2021)
+* Cleveland Clinic – ST Depression (2020)
+* Kaggle Heart Disease Dataset: [Heart Disease Data](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
+
+🔗 Power BI Dashboard: *(insert link here)*
+🔗 GitHub Repository: [Cardiology](https://github.com/isaiahokumu/Cardiology)
+
+---
+
