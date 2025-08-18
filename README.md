@@ -189,9 +189,9 @@ streamlit run app.py
 * Cleveland Clinic – ST Depression (2020)
 * Kaggle Heart Disease Dataset: [Heart Disease Data](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
 
-🔗 Power BI Dashboard: *(insert link here)*
-🔗 View on Web App: [Heartbeat Analytics](https://heartbeat-insights.lovable.app/)
-🔗 GitHub Repository: [Cardiology](https://github.com/isaiahokumu/Cardiology)
+- 🔗 Power BI Dashboard: *(insert link here)*
+- 🔗 View on Web App: [Heartbeat Analytics](https://heartbeat-insights.lovable.app/)
+- 🔗 GitHub Repository: [Cardiology](https://github.com/isaiahokumu/Cardiology)
 
 ---
 
