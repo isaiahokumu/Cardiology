@@ -189,9 +189,10 @@ streamlit run app.py
 * Cleveland Clinic – ST Depression (2020)
 * Kaggle Heart Disease Dataset: [Heart Disease Data](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
 
-- 🔗 Power BI Dashboard: *(insert link here)*
+- 🔗 Power BI Dashboard: [Cardiology Dashboard](https://app.powerbi.com/links/ayPsEDdCe1?ctid=6e2cc058-79af-4df8-92e6-ee6e0d1dea3e&pbi_source=linkShare)
 - 🔗 View on Web App: [Heartbeat Analytics](https://heartbeat-insights.lovable.app/)
 - 🔗 GitHub Repository: [Cardiology](https://github.com/isaiahokumu/Cardiology)
+- 🔗 Medium Article: [Predicting Heart Disease with ST Depression](https://medium.com/@isaiahokumu6/predicting-heart-disease-with-st-depression-a-data-driven-approach-711a65a956db)
 
 ---
 
